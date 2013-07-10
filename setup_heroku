@@ -3,4 +3,4 @@ heroku login
 
 copy your keys to ~/.ssh
 run heroku keys
-
+goto checkout dir and run "heroku create" to create a heroku remote repo
