@@ -1,0 +1,6 @@
+go to checkout dir add type
+heroku login
+
+copy your keys to ~/.ssh
+run heroku keys
+
